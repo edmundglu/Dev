@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://EdLu162:Edlu162@cluster0.oqspw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken",
+  "githubClientId": "0528068c6de5058f977b",
+  "githubSecret": "c979fce047bb15562b5f317a537b0e73c2eb2e32",
+  "githubToken": "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"
+}
